@@ -1,0 +1,8 @@
+{
+  "name": "Electricidad Paine",
+  "description": "Technical editorial platform focused on modern electrical engineering, IoT, automation, and SEC certification in Chile by Electricidad Paine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
